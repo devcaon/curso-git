@@ -16,3 +16,16 @@ A programação é o processo de criar um conjunto de instruções que dizem a u
 - **Inteligência Artificial**: Criação de sistemas que podem aprender e tomar decisões.
 
 Aprender a programar pode abrir muitas portas e oportunidades de carreira. É uma habilidade valiosa que pode ser aplicada em diversas áreas e indústrias.
+
+## O que é um Framework?
+
+Um framework é uma estrutura de suporte definida em que outro projeto de software pode ser organizado e desenvolvido. Ele fornece uma base sobre a qual os desenvolvedores podem construir programas para uma plataforma específica. Os frameworks são usados para simplificar o desenvolvimento de software, fornecendo componentes reutilizáveis e ferramentas que ajudam a resolver problemas comuns.
+
+### Exemplos de Frameworks Populares
+
+- **Django**: Um framework web de alto nível para Python que permite o desenvolvimento rápido de sites seguros e mantidos.
+- **React**: Uma biblioteca JavaScript para construir interfaces de usuário, mantida pelo Facebook.
+- **Spring**: Um framework para desenvolvimento de aplicações Java em nível empresarial.
+- **Angular**: Uma plataforma para construção de aplicações web dinâmicas, mantida pelo Google.
+
+Os frameworks ajudam a aumentar a produtividade dos desenvolvedores, fornecendo uma estrutura consistente e componentes pré-construídos que podem ser usados para acelerar o desenvolvimento de software.
