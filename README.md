@@ -29,3 +29,22 @@ Um framework é uma estrutura de suporte definida em que outro projeto de softwa
 - **Angular**: Uma plataforma para construção de aplicações web dinâmicas, mantida pelo Google.
 
 Os frameworks ajudam a aumentar a produtividade dos desenvolvedores, fornecendo uma estrutura consistente e componentes pré-construídos que podem ser usados para acelerar o desenvolvimento de software.
+
+## O que é o ReactJS
+
+ReactJS é uma biblioteca JavaScript de código aberto para a construção de interfaces de usuário, especialmente para aplicações de página única, onde é necessário um tempo de resposta rápido para as interações do usuário. Foi desenvolvida pelo Facebook e é mantida por uma comunidade de desenvolvedores e empresas.
+
+### Principais Características do ReactJS
+
+- **Componentes**: React permite a criação de componentes reutilizáveis que podem ser combinados para formar interfaces complexas.
+- **Virtual DOM**: Utiliza um DOM virtual para melhorar o desempenho das aplicações, atualizando apenas os componentes que mudaram.
+- **Unidirectional Data Flow**: Facilita a gestão do estado da aplicação, tornando o código mais previsível e fácil de depurar.
+- **JSX**: Uma extensão de sintaxe que permite escrever HTML dentro do JavaScript, tornando o código mais legível e expressivo.
+
+### Vantagens do ReactJS
+
+- **Desempenho**: A utilização do Virtual DOM melhora a performance das aplicações.
+- **Reutilização de Componentes**: Facilita a manutenção e a escalabilidade do código.
+- **Grande Comunidade**: Possui uma vasta comunidade de desenvolvedores, o que resulta em uma grande quantidade de recursos, bibliotecas e ferramentas disponíveis.
+
+ReactJS é amplamente utilizado no desenvolvimento de aplicações web modernas e é uma das bibliotecas mais populares no ecossistema JavaScript.
