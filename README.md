@@ -70,3 +70,20 @@ Fortaleza possui um mercado crescente para desenvolvedores de software, com vár
 - **Ivia**: Uma empresa de tecnologia da informação que oferece serviços de desenvolvimento de software, consultoria e outsourcing.
 
 Essas empresas são conhecidas por oferecerem boas condições de trabalho, oportunidades de crescimento profissional e um ambiente propício para o desenvolvimento de novas habilidades.
+
+## As 10 Linguagens de Programação Mais Utilizadas
+
+Aqui estão as dez linguagens de programação mais utilizadas atualmente, de acordo com várias pesquisas e rankings de popularidade:
+
+1. **JavaScript**: Amplamente utilizado para desenvolvimento web, tanto no front-end quanto no back-end (com Node.js).
+2. **Python**: Conhecido por sua simplicidade e legibilidade, é popular em ciência de dados, aprendizado de máquina e desenvolvimento web.
+3. **Java**: Muito utilizado em desenvolvimento de aplicações empresariais, Android e sistemas de grande porte.
+4. **C#**: Principalmente usado para desenvolvimento de aplicações Windows e jogos (com Unity).
+5. **PHP**: Comumente utilizado para desenvolvimento web, especialmente em servidores.
+6. **C++**: Utilizado em desenvolvimento de sistemas, jogos e aplicações de alto desempenho.
+7. **TypeScript**: Um superconjunto de JavaScript que adiciona tipagem estática, popular em grandes projetos web.
+8. **Ruby**: Conhecido por sua simplicidade e produtividade, popularizado pelo framework Ruby on Rails.
+9. **Swift**: Utilizado para desenvolvimento de aplicações iOS e macOS.
+10. **Go**: Desenvolvido pelo Google, é conhecido por sua eficiência e desempenho em aplicações de rede e servidores.
+
+Essas linguagens são amplamente adotadas devido à sua versatilidade, comunidade de suporte e ampla gama de bibliotecas e frameworks disponíveis.
