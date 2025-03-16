@@ -48,3 +48,13 @@ ReactJS é uma biblioteca JavaScript de código aberto para a construção de in
 - **Grande Comunidade**: Possui uma vasta comunidade de desenvolvedores, o que resulta em uma grande quantidade de recursos, bibliotecas e ferramentas disponíveis.
 
 ReactJS é amplamente utilizado no desenvolvimento de aplicações web modernas e é uma das bibliotecas mais populares no ecossistema JavaScript.
+
+## Salário Médio de um Programador em Fortaleza
+
+O salário médio de um programador em Fortaleza pode variar dependendo da experiência, habilidades e do tipo de empresa. De acordo com dados recentes, os salários médios são os seguintes:
+
+- **Programador Júnior**: R$ 2.000 a R$ 3.500 por mês
+- **Programador Pleno**: R$ 3.500 a R$ 6.000 por mês
+- **Programador Sênior**: R$ 6.000 a R$ 10.000 por mês
+
+Esses valores são aproximados e podem variar com base em fatores como certificações, especializações e o setor de atuação da empresa.
